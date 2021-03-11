@@ -63,7 +63,7 @@ p {
 /* Media Query */
 @media only screen and (max-width: 768px) {
     body {
-        background-color: #8eff99;
+        background-color: #92ff9b1f;
     }
     .box {
         width: 80%;
